@@ -1,3 +1,5 @@
+# river runner project
+visualize santa fe river flow path and reaches. build in svelte and mapbox gl-js
 
 # svelte app
 
