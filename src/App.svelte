@@ -16,7 +16,7 @@
 
   lng = -105.944183;
   lat = 35.691544;
-  zoom = 13;
+  zoom = 12;
   pitch = 80;
   bearing = 90;
 
